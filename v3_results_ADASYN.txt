@@ -1,3 +1,6 @@
+Report created at : 2025-11-06
+Comment           : ADASYN augmentation
+Rozkład klas w zbiorze treningowym (ADASYN): Counter({0: 227451, 1: 227346})
 
 === Random Forest ===
               precision    recall  f1-score   support

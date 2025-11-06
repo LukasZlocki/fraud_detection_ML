@@ -1,0 +1,49 @@
+Report created at: 2025-11-06
+
+=== Random Forest ===
+              precision    recall  f1-score   support
+
+     Correct       1.00      1.00      1.00     45491
+      Frauds       1.00      1.00      1.00     45490
+
+    accuracy                           1.00     90981
+   macro avg       1.00      1.00      1.00     90981
+weighted avg       1.00      1.00      1.00     90981
+
+============================================================
+
+=== XGBoost ===
+              precision    recall  f1-score   support
+
+     Correct       1.00      1.00      1.00     45491
+      Frauds       1.00      1.00      1.00     45490
+
+    accuracy                           1.00     90981
+   macro avg       1.00      1.00      1.00     90981
+weighted avg       1.00      1.00      1.00     90981
+
+============================================================
+
+=== Logistic Regression ===
+              precision    recall  f1-score   support
+
+     Correct       0.97      0.99      0.98     45491
+      Frauds       0.99      0.97      0.98     45490
+
+    accuracy                           0.98     90981
+   macro avg       0.98      0.98      0.98     90981
+weighted avg       0.98      0.98      0.98     90981
+
+============================================================
+
+=== Linear SVC ===
+              precision    recall  f1-score   support
+
+     Correct       0.93      0.99      0.96     45491
+      Frauds       0.99      0.93      0.95     45490
+
+    accuracy                           0.96     90981
+   macro avg       0.96      0.96      0.96     90981
+weighted avg       0.96      0.96      0.96     90981
+
+============================================================
