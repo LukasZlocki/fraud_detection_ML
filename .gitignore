@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 creditcard_dataset.csv
+*.csv
+*.txt
